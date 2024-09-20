@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="">
-    <img alt="WHITENEARO-MD" height="300" src="https://files.catbox.moe/4y72vl.jpg">
+    <img alt="WHITENEARO-MD" height="300" src="">
 
     
 
