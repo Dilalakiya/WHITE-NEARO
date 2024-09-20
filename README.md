@@ -5,7 +5,7 @@
 <br>
  </p>
     <p align="center">
-<a href=" src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+WHITE NEARO-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;LAKSHITHA-DILMINA." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+WHITE NEARO-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;LAKSHITHA-DILMINA." alt="Typing SVG" /></a>
 
  
   
@@ -22,14 +22,14 @@
 
     
 
-![forks](https://img.shields.io/github/forks/cobrs11/WHITENEARO-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/Dilalakiya/WHITENEARO-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/cobrs11/WHITENEARO-MD?style=social)
-
-
+![stars](https://img.shields.io/github/stars/Dilalakiya/WHITENEARO-MD?style=social)
 
 
-<a href="https://www.whatsapp.com/channel/0029VajrLTH30LKXN5O5Zj04"><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+
+
+<a href=""><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
 
 
 
