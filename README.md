@@ -22,14 +22,14 @@
 
     
 
-![forks](https://img.shields.io/github/forks/Dilalakiya/WHITENEARO-MD?label=Forks&style=social)
+![forks](https://img.https://github.com/Dilalakiya/WHITE-NEARO/edit/main/README.md/WHITENEARO-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/Dilalakiya/WHITENEARO-MD?style=social)
-
-
+![stars](https://img.shields.io/https://github.com/Dilalakiya/WHITE-NEARO/edit/main/README.md/WHITENEARO-MD?style=social)
 
 
-<a href=""><img src="https://img.shields.io/badge/%E2%9D%A4%EF%B8%8F%E2%80%8D%20Join%20Our%20WhatsApp%20Channel%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green" alt="📎 Join Our WhatsApp Channel" width="300"></a>
+
+
+<a href=""><img src="https://img.shields." alt="📎 Join with we" width="300"></a>
 
 
 
