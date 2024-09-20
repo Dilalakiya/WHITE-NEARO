@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://images.app.goo.gl/Bzs4GfQKp6AhJMWm8">
-    <img alt="WHITENEARO-MD" height="300" src="">
+    <img alt="WHITENEARO-MD" height="300" src="https://images.app.goo.gl/Bzs4GfQKp6AhJMWm8">
 
     
 
@@ -29,7 +29,7 @@
 
 
 
-<a href=""><img src="https://img.shields." alt="📎 Join with we" width="300"></a>
+<a href="https://images.app.goo.gl/Bzs4GfQKp6AhJMWm8"><img src="https://img.shields." alt="📎 Join with we" width="300"></a>
 
 
 
@@ -84,5 +84,5 @@
  <br>
  </p>
     <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE+MY+BOT;HANSAMAL-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=THANKS+ALL+USE+MY+BOT;WHITE NEARO-MD" alt="Typing SVG" /></a>
 ---
